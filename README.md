@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/rayhan-hosen/exam-system-plugin-public/refs/heads/main/images/# Quiz Exam Pro - Complete Documentation
+# Quiz Exam Pro - Complete Documentation
 
 A comprehensive WordPress plugin that integrates seamlessly with Tutor LMS to provide advanced quiz and exam management capabilities. Create, manage, and conduct MCQ (Multiple Choice Questions) exams with detailed analytics and performance tracking.
 
